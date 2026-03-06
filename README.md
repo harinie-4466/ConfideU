@@ -180,7 +180,7 @@ Login:
    - Verify evidence integrity
    - Update case status
 
-## 📊 User Roles
+## User Roles
 
 | Role | Submits | Receives | Manages |
 |------|---------|----------|---------|
@@ -250,4 +250,3 @@ No environment setup needed for demo
 All features work with localStorage
 Perfect for testing and learning
 ```
-**Welcome to ConfideU - Secure Whistleblower Platform** 🔐
